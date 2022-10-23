@@ -1,0 +1,28 @@
+*{
+    text-align: justify;
+    box-sizing: border-box;
+    padding: 10%;
+    margin: 5px;
+}
+
+body{
+    background-image: linear-gradient(#FFBF00, #7E5109);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    align-content: stretch;
+    justify-content: space-around;
+
+}
+nav a {
+    background-color: none;
+    box-sizing: content-box;
+    padding: 20px;
+    margin: 0%;
+    text-align: center;
+}
